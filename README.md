@@ -37,7 +37,7 @@ https://www.fifa.com/fifa-world-ranking/men?dateId=id13974
 - 동적 사이트 수집을 위한 API, selenium 기법 적용
 - 결측치 처리, variable selection 등 전처리 진행
 - 상위 30위 국가 추출 및 시각화
-  ![image](https://github.com/HappyJieun/FIF/assets/166107244/dda79c30-2da0-4005-9dac-16e40a5b08ca)
+
 
 <br/>
 
